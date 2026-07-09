@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CliParser/CliParser.csproj" Id="a9f139d7-864b-4418-8f28-f40796792cce" />
+  <Project Path="LogScope/LogScope.csproj" />
+</Solution>
