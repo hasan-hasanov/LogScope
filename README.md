@@ -1,0 +1,2 @@
+# LogScope
+Microsoft Log analyzer
