@@ -8,7 +8,7 @@ namespace LogScope
     {
         static async Task Main(string[] args)
         {
-            args = args.Length == 0 ? new string[] { "analyze", "test.json", "--top", "100" } : args;
+            args = args.Length == 0 ? new string[] { "analyze", "C:\\Users\\hasan\\Desktop\\logscope_large_sample.json" } : args;
 
             IServiceProvider serviceProvider = new ServiceCollection()
                .RegisterConcreteTypes()
